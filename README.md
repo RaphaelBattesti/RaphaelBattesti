@@ -20,7 +20,7 @@ My background combines rigorous academic training with practical experience in *
 
 *   🔭 **Current Focus:** Completing my Master Thesis on *Portfolio Optimization using Social Media Sentiment Analysis*.
 *  💼 **Experience:** Pricing Analyst (La Banque Postale) & Wealth Management (AS & Associés).
-*  🗣 **Languages:** French (Native), English (Fluent), Italian (Fluent).
+*  🗣 **Languages:** French (Native), English (Fluent), Italian (Intermediary).
 *  ⚽ **Interests:** Finance, Geopolitics and Inter Milan tifoso.
 
 ---
